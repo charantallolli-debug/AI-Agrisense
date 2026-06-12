@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: agrisense
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/pipeline
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENWEATHER_API_KEY
+        sync: false
+      - key: ENABLE_TTA
+        value: true

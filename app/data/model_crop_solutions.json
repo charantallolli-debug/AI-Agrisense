@@ -1,0 +1,2053 @@
+{
+  "wheat_brown_rust": {
+    "disease_name": "Wheat Brown Rust",
+    "severity_percent": 72,
+    "harmfulness": "High",
+    "impact": "This disease can reduce crop yield by 40–60% if untreated.",
+    "cause": "Puccinia triticina (brown/leaf rust fungus).",
+    "symptoms": [
+      "Orange-brown pustules on leaves",
+      "Yellowing around pustules",
+      "Reduced grain fill"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during heavy infection"
+    ],
+    "pesticides": [
+      "Propiconazole",
+      "Tebuconazole",
+      "Azoxystrobin"
+    ],
+    "organic_solutions": [
+      "Resistant wheat varieties",
+      "Early sowing",
+      "Remove volunteer wheat"
+    ],
+    "prevention": [
+      "Monitor at tillering and flag leaf",
+      "Fungicide if threshold exceeded"
+    ],
+    "recommended_actions": [
+      "Apply fungicide when pustules appear on upper leaves",
+      "Use certified resistant varieties",
+      "Destroy volunteer wheat plants"
+    ]
+  },
+  "wheat_black_rust": {
+    "disease_name": "Wheat Black (Stem) Rust",
+    "severity_percent": 85,
+    "harmfulness": "Critical",
+    "impact": "This disease can reduce crop yield by 60% or more if untreated.",
+    "cause": "Puccinia graminis f. sp. tritici.",
+    "symptoms": [
+      "Dark reddish-black pustules on stems and leaves",
+      "Weakened stems"
+    ],
+    "fertilizers": [
+      "Potassium-rich fertilizer for plant strength"
+    ],
+    "pesticides": [
+      "Triazole fungicides at early stem rust stage"
+    ],
+    "organic_solutions": [
+      "Resistant cultivars",
+      "Early detection"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Scout weekly in humid weather"
+    ],
+    "recommended_actions": [
+      "Spray immediately at first sign",
+      "Use stem-rust-resistant cultivars"
+    ]
+  },
+  "wheat_septoria": {
+    "disease_name": "Wheat Septoria Leaf Blotch",
+    "severity_percent": 60,
+    "harmfulness": "Medium",
+    "impact": "This disease can reduce crop yield by 30–50% if untreated.",
+    "cause": "Zymoseptoria tritici.",
+    "symptoms": [
+      "Brown lesions with black pycnidia",
+      "Yellowing from tip down"
+    ],
+    "fertilizers": [
+      "Balanced nutrition"
+    ],
+    "pesticides": [
+      "Azoxystrobin + triazole at flag leaf"
+    ],
+    "organic_solutions": [
+      "Crop rotation",
+      "Residue management"
+    ],
+    "prevention": [
+      "Fungicide timing at flag leaf emergence"
+    ],
+    "recommended_actions": [
+      "Apply fungicide at flag leaf if lesions present"
+    ]
+  },
+  "rice_leaf_blast": {
+    "disease_name": "Rice Leaf Blast",
+    "severity_percent": 80,
+    "harmfulness": "High",
+    "impact": "This disease can reduce crop yield by 50–70% if untreated.",
+    "cause": "Magnaporthe oryzae.",
+    "symptoms": [
+      "Diamond-shaped lesions with gray centers",
+      "Leaf drying"
+    ],
+    "fertilizers": [
+      "Moderate nitrogen",
+      "Silicon supplements where available"
+    ],
+    "pesticides": [
+      "Tricyclazole",
+      "Isoprothiolane"
+    ],
+    "organic_solutions": [
+      "Resistant varieties",
+      "Balanced water management"
+    ],
+    "prevention": [
+      "Avoid dense planting",
+      "Split nitrogen application"
+    ],
+    "recommended_actions": [
+      "Apply fungicide at early lesion stage"
+    ]
+  },
+  "tomato_early_blight": {
+    "disease_name": "Tomato Early Blight",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This disease can reduce crop yield by 35% if untreated.",
+    "cause": "Alternaria solani.",
+    "symptoms": [
+      "Brown concentric rings on lower leaves",
+      "Yellow halos",
+      "Defoliation"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Calcium nitrate"
+    ],
+    "pesticides": [
+      "Chlorothalonil",
+      "Mancozeb"
+    ],
+    "organic_solutions": [
+      "Remove infected leaves",
+      "Neem oil",
+      "Mulch"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Spacing",
+      "Avoid wet foliage"
+    ],
+    "recommended_actions": [
+      "Apply fungicide at first sign",
+      "Remove lower infected leaves"
+    ]
+  },
+  "bottle_gourd_anthracnose": {
+    "disease_name": "Bottle Gourd Anthracnose",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This disease can reduce fruit quality and yield if untreated.",
+    "cause": "Colletotrichum spp.",
+    "symptoms": [
+      "Brown sunken spots on leaves and fruit",
+      "Wilting vines"
+    ],
+    "fertilizers": [
+      "Balanced NPK"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Carbendazim"
+    ],
+    "organic_solutions": [
+      "Remove infected parts",
+      "Copper spray"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Field sanitation"
+    ],
+    "recommended_actions": [
+      "Spray fungicide at first symptoms",
+      "Remove infected debris"
+    ]
+  },
+  "chili_leaf_spot": {
+    "disease_name": "Chili Leaf Spot",
+    "severity_percent": 58,
+    "harmfulness": "Medium",
+    "impact": "This disease can reduce yield by 25–35% if untreated.",
+    "cause": "Fungal pathogens (Cercospora, Alternaria spp.).",
+    "symptoms": [
+      "Circular brown spots on leaves",
+      "Yellow halos",
+      "Defoliation in severe cases"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Remove infected leaves"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage"
+    ],
+    "recommended_actions": [
+      "Apply fungicide at first symptoms",
+      "Remove heavily infected leaves"
+    ]
+  },
+  "chili_healthy": {
+    "disease_name": "Chili — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage"
+    ],
+    "fertilizers": [
+      "NPK as per growth stage"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation"
+    ],
+    "prevention": [
+      "Regular scouting"
+    ],
+    "recommended_actions": [
+      "Continue monitoring for leaf curl and spot"
+    ]
+  },
+  "cabbage_black_rot": {
+    "disease_name": "Cabbage Black Rot",
+    "severity_percent": 70,
+    "harmfulness": "High",
+    "impact": "This disease can reduce yield by 50% if untreated.",
+    "cause": "Xanthomonas campestris pv. campestris.",
+    "symptoms": [
+      "V-shaped yellow lesions",
+      "Blackening of veins",
+      "Head rot"
+    ],
+    "fertilizers": [
+      "Avoid excess nitrogen"
+    ],
+    "pesticides": [
+      "Copper bactericides"
+    ],
+    "organic_solutions": [
+      "Disease-free seed",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Avoid overhead irrigation"
+    ],
+    "recommended_actions": [
+      "Use copper spray preventively",
+      "Remove infected plants"
+    ]
+  },
+  "bottle_gourd_downey_mildew": {
+    "disease_name": "Bottle Gourd Downey Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Bottle Gourd yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Bottle Gourd foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "bottle_gourd_healthy": {
+    "disease_name": "Bottle Gourd — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Bottle Gourd weekly for early disease signs"
+    ]
+  },
+  "cabbage_alternaria_leaf_spot": {
+    "disease_name": "Cabbage Alternaria Leaf Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cabbage yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cabbage foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cabbage_bacterial_spot_rot": {
+    "disease_name": "Cabbage Bacterial Spot Rot",
+    "severity_percent": 70,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Cabbage yield if left untreated. Early action improves recovery.",
+    "cause": "Bacterial infection on Cabbage, often spread by rain splash and tools.",
+    "symptoms": [
+      "Water-soaked lesions",
+      "Yellow halos",
+      "Wilting in advanced stages"
+    ],
+    "fertilizers": [
+      "Reduce nitrogen during outbreak",
+      "Potassium support for recovery"
+    ],
+    "pesticides": [
+      "Copper bactericides",
+      "Streptocycline where approved"
+    ],
+    "organic_solutions": [
+      "Certified disease-free seed",
+      "Field sanitation"
+    ],
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Disinfect tools",
+      "Use resistant varieties"
+    ],
+    "recommended_actions": [
+      "Remove infected plants",
+      "Apply copper spray early",
+      "Consult local KVK for severe outbreaks"
+    ]
+  },
+  "cabbage_cabbage_aphid_colony": {
+    "disease_name": "Cabbage Cabbage Aphid Colony",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cabbage yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Cabbage.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  },
+  "cabbage_downy_mildew": {
+    "disease_name": "Cabbage Downy Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cabbage yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cabbage foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cabbage_healthy": {
+    "disease_name": "Cabbage — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Cabbage weekly for early disease signs"
+    ]
+  },
+  "cabbage_ring_spot": {
+    "disease_name": "Cabbage Ring Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cabbage yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cabbage foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "capsicum_bacterial_spot": {
+    "disease_name": "Capsicum Bacterial Spot",
+    "severity_percent": 70,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Capsicum yield if left untreated. Early action improves recovery.",
+    "cause": "Bacterial infection on Capsicum, often spread by rain splash and tools.",
+    "symptoms": [
+      "Water-soaked lesions",
+      "Yellow halos",
+      "Wilting in advanced stages"
+    ],
+    "fertilizers": [
+      "Reduce nitrogen during outbreak",
+      "Potassium support for recovery"
+    ],
+    "pesticides": [
+      "Copper bactericides",
+      "Streptocycline where approved"
+    ],
+    "organic_solutions": [
+      "Certified disease-free seed",
+      "Field sanitation"
+    ],
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Disinfect tools",
+      "Use resistant varieties"
+    ],
+    "recommended_actions": [
+      "Remove infected plants",
+      "Apply copper spray early",
+      "Consult local KVK for severe outbreaks"
+    ]
+  },
+  "capsicum_healthy": {
+    "disease_name": "Capsicum — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Capsicum weekly for early disease signs"
+    ]
+  },
+  "cauliflower_bacterial_spot_rot": {
+    "disease_name": "Cauliflower Bacterial Spot Rot",
+    "severity_percent": 70,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Cauliflower yield if left untreated. Early action improves recovery.",
+    "cause": "Bacterial infection on Cauliflower, often spread by rain splash and tools.",
+    "symptoms": [
+      "Water-soaked lesions",
+      "Yellow halos",
+      "Wilting in advanced stages"
+    ],
+    "fertilizers": [
+      "Reduce nitrogen during outbreak",
+      "Potassium support for recovery"
+    ],
+    "pesticides": [
+      "Copper bactericides",
+      "Streptocycline where approved"
+    ],
+    "organic_solutions": [
+      "Certified disease-free seed",
+      "Field sanitation"
+    ],
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Disinfect tools",
+      "Use resistant varieties"
+    ],
+    "recommended_actions": [
+      "Remove infected plants",
+      "Apply copper spray early",
+      "Consult local KVK for severe outbreaks"
+    ]
+  },
+  "cauliflower_black_rot": {
+    "disease_name": "Cauliflower Black Rot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cauliflower yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cauliflower foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cauliflower_downy_mildew": {
+    "disease_name": "Cauliflower Downy Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cauliflower yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cauliflower foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cauliflower_healthy": {
+    "disease_name": "Cauliflower — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Cauliflower weekly for early disease signs"
+    ]
+  },
+  "chili_leaf_curl": {
+    "disease_name": "Chili  Leaf Curl",
+    "severity_percent": 75,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Chili yield if left untreated. Early action improves recovery.",
+    "cause": "Viral disease on Chili, often vector-transmitted (whitefly, aphid, mites).",
+    "symptoms": [
+      "Mosaic or mottled leaves",
+      "Leaf curl or distortion",
+      "Stunted growth"
+    ],
+    "fertilizers": [
+      "Balanced nutrition",
+      "Micronutrient foliar spray"
+    ],
+    "pesticides": [
+      "Control vector insects",
+      "Imidacloprid for whitefly (as per label)"
+    ],
+    "organic_solutions": [
+      "Neem oil for vectors",
+      "Remove infected plants",
+      "Reflective mulch"
+    ],
+    "prevention": [
+      "Vector control",
+      "Resistant varieties",
+      "Rogue infected plants early"
+    ],
+    "recommended_actions": [
+      "Remove and destroy infected plants",
+      "Control whitefly/aphid population",
+      "Plant virus-free seedlings"
+    ]
+  },
+  "chili_whitefly": {
+    "disease_name": "Chili  Whitefly",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Chili yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Chili.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  },
+  "chili_yellowish": {
+    "disease_name": "Chili  Yellowish",
+    "severity_percent": 60,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Chili yield if left untreated. Early action improves recovery.",
+    "cause": "Stress or pathogen affecting Chili — confirm with local extension officer.",
+    "symptoms": [
+      "Discolored or damaged leaves",
+      "Reduced vigor"
+    ],
+    "fertilizers": [
+      "Balanced NPK per soil test"
+    ],
+    "pesticides": [
+      "Consult local agri officer for approved products"
+    ],
+    "organic_solutions": [
+      "Field sanitation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Timely irrigation"
+    ],
+    "recommended_actions": [
+      "Scout field weekly",
+      "Take clear leaf photo for re-analysis"
+    ]
+  },
+  "corn_cercospora_leaf_spot_gray_leaf_spot": {
+    "disease_name": "Corn Cercospora Leaf Spot Gray Leaf Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Corn yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Corn foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "corn_common_rust": {
+    "severity_percent": 45,
+    "harmfulness": "Medium",
+    "impact": "Yield loss is usually moderate unless infection is severe before silking.",
+    "cause": "Puccinia sorghi; favored by moderate temperatures and high humidity.",
+    "symptoms": [
+      "Reddish-brown pustules on leaves",
+      "Chlorosis around pustules"
+    ],
+    "fertilizers": [
+      "Maintain potassium levels"
+    ],
+    "pesticides": [
+      "Triazole fungicides if economic threshold met"
+    ],
+    "organic_solutions": [
+      "Resistant hybrids",
+      "Early planting"
+    ],
+    "prevention": [
+      "Resistant varieties",
+      "Scouting"
+    ],
+    "recommended_actions": [
+      "Plant resistant hybrids",
+      "Fungicide if threshold exceeded"
+    ],
+    "disease_name": "Corn Common Rust"
+  },
+  "corn_northern_leaf_blight": {
+    "disease_name": "Corn Northern Leaf Blight",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Corn yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Corn foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "corn_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected.",
+    "cause": "N/A",
+    "symptoms": [
+      "Uniform green leaves"
+    ],
+    "fertilizers": [
+      "Nitrogen sidedress per growth stage"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Soil health management"
+    ],
+    "prevention": [
+      "Hybrid selection",
+      "Timely planting"
+    ],
+    "recommended_actions": [
+      "Scout weekly"
+    ],
+    "disease_name": "Corn — Healthy"
+  },
+  "cucumber_anthracnose": {
+    "disease_name": "Cucumber Anthracnose",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cucumber yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cucumber foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cucumber_bacterial_wilt": {
+    "disease_name": "Cucumber Bacterial Wilt",
+    "severity_percent": 70,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Cucumber yield if left untreated. Early action improves recovery.",
+    "cause": "Bacterial infection on Cucumber, often spread by rain splash and tools.",
+    "symptoms": [
+      "Water-soaked lesions",
+      "Yellow halos",
+      "Wilting in advanced stages"
+    ],
+    "fertilizers": [
+      "Reduce nitrogen during outbreak",
+      "Potassium support for recovery"
+    ],
+    "pesticides": [
+      "Copper bactericides",
+      "Streptocycline where approved"
+    ],
+    "organic_solutions": [
+      "Certified disease-free seed",
+      "Field sanitation"
+    ],
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Disinfect tools",
+      "Use resistant varieties"
+    ],
+    "recommended_actions": [
+      "Remove infected plants",
+      "Apply copper spray early",
+      "Consult local KVK for severe outbreaks"
+    ]
+  },
+  "cucumber_gummy_stem_blight": {
+    "disease_name": "Cucumber Gummy Stem Blight",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Cucumber yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Cucumber foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "cucumber_healthy_leaf": {
+    "disease_name": "Cucumber — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Cucumber weekly for early disease signs"
+    ]
+  },
+  "onion_alternaria_d": {
+    "disease_name": "Onion Alternaria D",
+    "severity_percent": 60,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Onion yield if left untreated. Early action improves recovery.",
+    "cause": "Stress or pathogen affecting Onion — confirm with local extension officer.",
+    "symptoms": [
+      "Discolored or damaged leaves",
+      "Reduced vigor"
+    ],
+    "fertilizers": [
+      "Balanced NPK per soil test"
+    ],
+    "pesticides": [
+      "Consult local agri officer for approved products"
+    ],
+    "organic_solutions": [
+      "Field sanitation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Timely irrigation"
+    ],
+    "recommended_actions": [
+      "Scout field weekly",
+      "Take clear leaf photo for re-analysis"
+    ]
+  },
+  "onion_botrytis_leaf_blight": {
+    "disease_name": "Onion Botrytis Leaf Blight",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Onion yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Onion foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "onion_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green upright leaves"
+    ],
+    "fertilizers": [
+      "NPK with sulphur"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Neem cake soil application"
+    ],
+    "prevention": [
+      "Seed treatment",
+      "Rotation"
+    ],
+    "recommended_actions": [
+      "Monitor for purple blotch and stemphylium"
+    ],
+    "disease_name": "Onion — Healthy"
+  },
+  "onion_purple_blotch": {
+    "severity_percent": 62,
+    "harmfulness": "Medium",
+    "impact": "This disease can reduce crop yield by 35% if untreated.",
+    "cause": "Alternaria porri.",
+    "symptoms": [
+      "Purple lesions with yellow halos",
+      "Storage rot"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Azoxystrobin"
+    ],
+    "organic_solutions": [
+      "Proper curing after harvest",
+      "Spacing for airflow"
+    ],
+    "prevention": [
+      "Resistant varieties",
+      "Avoid overhead irrigation"
+    ],
+    "recommended_actions": [
+      "Spray fungicide before monsoon rains",
+      "Remove infected leaves"
+    ],
+    "disease_name": "Onion Purple Blotch"
+  },
+  "onion_virosis_d": {
+    "disease_name": "Onion Virosis-D",
+    "severity_percent": 75,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Onion yield if left untreated. Early action improves recovery.",
+    "cause": "Viral disease on Onion, often vector-transmitted (whitefly, aphid, mites).",
+    "symptoms": [
+      "Mosaic or mottled leaves",
+      "Leaf curl or distortion",
+      "Stunted growth"
+    ],
+    "fertilizers": [
+      "Balanced nutrition",
+      "Micronutrient foliar spray"
+    ],
+    "pesticides": [
+      "Control vector insects",
+      "Imidacloprid for whitefly (as per label)"
+    ],
+    "organic_solutions": [
+      "Neem oil for vectors",
+      "Remove infected plants",
+      "Reflective mulch"
+    ],
+    "prevention": [
+      "Vector control",
+      "Resistant varieties",
+      "Rogue infected plants early"
+    ],
+    "recommended_actions": [
+      "Remove and destroy infected plants",
+      "Control whitefly/aphid population",
+      "Plant virus-free seedlings"
+    ]
+  },
+  "pea_downy_mildew": {
+    "disease_name": "Pea Downy Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Pea yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Pea foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "pea_healthy": {
+    "disease_name": "Pea — Healthy",
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Continue regular scouting and balanced nutrition.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green healthy foliage",
+      "Normal growth"
+    ],
+    "fertilizers": [
+      "Balanced NPK per growth stage",
+      "Micronutrients if soil test shows deficiency"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Mulching",
+      "Drip irrigation",
+      "Crop rotation"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Field sanitation",
+      "Avoid water stress"
+    ],
+    "recommended_actions": [
+      "Monitor Pea weekly for early disease signs"
+    ]
+  },
+  "pea_leafminner": {
+    "disease_name": "Pea Leafminner",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Pea yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Pea.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  },
+  "pea_powder_mildew": {
+    "disease_name": "Pea Powder Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Pea yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Pea foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "potato_early_blight": {
+    "severity_percent": 60,
+    "harmfulness": "Medium",
+    "impact": "This disease may reduce crop quality and yield if not treated early.",
+    "cause": "Alternaria solani; common in warm seasons with alternating wet/dry periods.",
+    "symptoms": [
+      "Dark brown spots with concentric rings",
+      "Yellowing of surrounding tissue"
+    ],
+    "fertilizers": [
+      "Potassium and phosphorus boost",
+      "Avoid excess nitrogen"
+    ],
+    "pesticides": [
+      "Mancozeb fungicide",
+      "Azoxystrobin"
+    ],
+    "organic_solutions": [
+      "Remove infected leaves",
+      "Crop rotation",
+      "Compost tea (supportive)"
+    ],
+    "prevention": [
+      "Rotate with non-solanaceous crops",
+      "Adequate spacing",
+      "Mulching"
+    ],
+    "recommended_actions": [
+      "Apply Mancozeb fungicide",
+      "Remove infected leaves",
+      "Avoid excessive moisture on foliage"
+    ],
+    "disease_name": "Potato Early Blight"
+  },
+  "potato_late_blight": {
+    "severity_percent": 90,
+    "harmfulness": "Critical",
+    "impact": "This disease can destroy entire fields within days under favorable conditions.",
+    "cause": "Phytophthora infestans.",
+    "symptoms": [
+      "Dark water-soaked lesions",
+      "White sporulation on undersides",
+      "Tuber rot"
+    ],
+    "fertilizers": [
+      "Balanced nutrition; avoid late heavy nitrogen"
+    ],
+    "pesticides": [
+      "Metalaxyl-M",
+      "Mancozeb",
+      "Copper fungicides"
+    ],
+    "organic_solutions": [
+      "Destroy volunteers",
+      "Improve drainage",
+      "Resistant varieties"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Hilling",
+      "Forecast-based sprays"
+    ],
+    "recommended_actions": [
+      "Apply systemic + contact fungicide program",
+      "Destroy infected plants",
+      "Do not store infected tubers"
+    ],
+    "disease_name": "Potato Late Blight"
+  },
+  "potato_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. The plant appears healthy.",
+    "cause": "N/A",
+    "symptoms": [
+      "Healthy green foliage"
+    ],
+    "fertilizers": [
+      "Balanced NPK"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Regular hilling and irrigation"
+    ],
+    "prevention": [
+      "Certified seed potatoes",
+      "Rotation"
+    ],
+    "recommended_actions": [
+      "Continue monitoring"
+    ],
+    "disease_name": "Potato — Healthy"
+  },
+  "rice_brown_spot": {
+    "disease_name": "Rice Brown Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Rice yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Rice foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "rice_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. Maintain proper water level and balanced fertilizer.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green leaves",
+      "Normal tillering"
+    ],
+    "fertilizers": [
+      "Split nitrogen application",
+      "Zinc sulphate if deficient"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Azolla in paddy fields",
+      "Neem cake"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Line sowing",
+      "Weed management"
+    ],
+    "recommended_actions": [
+      "Monitor for blast and blight weekly"
+    ],
+    "disease_name": "Rice — Healthy"
+  },
+  "rice_hispa": {
+    "disease_name": "Rice Hispa",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Rice yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Rice.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  },
+  "tomato_bacterial_spot": {
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "Fruit quality and marketable yield can decline if infection spreads.",
+    "cause": "Xanthomonas bacteria; spread by rain splash and contaminated tools.",
+    "symptoms": [
+      "Small dark spots on leaves and fruit",
+      "Raised scabby fruit lesions"
+    ],
+    "fertilizers": [
+      "Balanced micronutrients",
+      "Avoid excess nitrogen"
+    ],
+    "pesticides": [
+      "Copper bactericide",
+      "Streptomycin (where permitted)"
+    ],
+    "organic_solutions": [
+      "Copper spray",
+      "Sanitize tools",
+      "Remove infected fruit"
+    ],
+    "prevention": [
+      "Use disease-free seed",
+      "Rotate crops",
+      "Avoid leaf wetness"
+    ],
+    "recommended_actions": [
+      "Apply copper spray",
+      "Remove infected fruit",
+      "Sanitize equipment"
+    ],
+    "disease_name": "Tomato Bacterial Spot"
+  },
+  "tomato_late_blight": {
+    "severity_percent": 85,
+    "harmfulness": "High",
+    "impact": "This disease can reduce crop yield significantly if untreated.",
+    "cause": "Phytophthora infestans; thrives in cool, wet weather.",
+    "symptoms": [
+      "Water-soaked gray-green lesions",
+      "White mold on leaf undersides",
+      "Rapid plant collapse"
+    ],
+    "fertilizers": [
+      "Low nitrogen until recovery",
+      "Potassium-rich fertilizer after treatment"
+    ],
+    "pesticides": [
+      "Copper-based fungicide",
+      "Mancozeb",
+      "Chlorothalonil (preventive)"
+    ],
+    "organic_solutions": [
+      "Copper spray",
+      "Remove infected plants",
+      "Improve drainage"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Avoid overhead watering",
+      "Destroy infected debris",
+      "Maintain proper spacing"
+    ],
+    "recommended_actions": [
+      "Use copper-based fungicide immediately",
+      "Avoid overwatering",
+      "Remove infected leaves and plants",
+      "Maintain proper spacing for airflow"
+    ],
+    "disease_name": "Tomato Late Blight"
+  },
+  "tomato_leaf_mold": {
+    "severity_percent": 50,
+    "harmfulness": "Medium",
+    "impact": "Defoliation can reduce photosynthesis and fruit size.",
+    "cause": "Passalora fulva; favors high humidity in greenhouses.",
+    "symptoms": [
+      "Yellow patches on upper leaf surface",
+      "Olive-green mold underneath"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Improve ventilation in greenhouses"
+    ],
+    "pesticides": [
+      "Chlorothalonil",
+      "Sulfur-based fungicide"
+    ],
+    "organic_solutions": [
+      "Neem oil",
+      "Reduce humidity",
+      "Prune lower leaves"
+    ],
+    "prevention": [
+      "Ventilation",
+      "Spacing",
+      "Resistant cultivars"
+    ],
+    "recommended_actions": [
+      "Improve airflow",
+      "Apply fungicide",
+      "Remove heavily infected leaves"
+    ],
+    "disease_name": "Tomato Leaf Mold"
+  },
+  "tomato_septoria_leaf_spot": {
+    "disease_name": "Tomato Septoria Leaf Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Tomato yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Tomato foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "tomato_spider_mites_two_spotted_spider_mite": {
+    "disease_name": "Tomato Spider Mites Two-Spotted Spider Mite",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Tomato yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Tomato.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  },
+  "tomato_target_spot": {
+    "disease_name": "Tomato Target Spot",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Tomato yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Tomato foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "tomato_yellow_leaf_curl_virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "severity_percent": 75,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Tomato yield if left untreated. Early action improves recovery.",
+    "cause": "Viral disease on Tomato, often vector-transmitted (whitefly, aphid, mites).",
+    "symptoms": [
+      "Mosaic or mottled leaves",
+      "Leaf curl or distortion",
+      "Stunted growth"
+    ],
+    "fertilizers": [
+      "Balanced nutrition",
+      "Micronutrient foliar spray"
+    ],
+    "pesticides": [
+      "Control vector insects",
+      "Imidacloprid for whitefly (as per label)"
+    ],
+    "organic_solutions": [
+      "Neem oil for vectors",
+      "Remove infected plants",
+      "Reflective mulch"
+    ],
+    "prevention": [
+      "Vector control",
+      "Resistant varieties",
+      "Rogue infected plants early"
+    ],
+    "recommended_actions": [
+      "Remove and destroy infected plants",
+      "Control whitefly/aphid population",
+      "Plant virus-free seedlings"
+    ]
+  },
+  "tomato_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected. The plant appears healthy.",
+    "cause": "N/A",
+    "symptoms": [
+      "Green, uniform foliage",
+      "No spots or wilting"
+    ],
+    "fertilizers": [
+      "Balanced NPK as per soil test"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Maintain compost mulch and regular watering"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Monitor weekly"
+    ],
+    "recommended_actions": [
+      "Continue regular monitoring"
+    ],
+    "disease_name": "Tomato — Healthy"
+  },
+  "tomato_mosaic_virus": {
+    "disease_name": "Tomato Mosaic Virus",
+    "severity_percent": 75,
+    "harmfulness": "High",
+    "impact": "This condition can reduce Tomato yield if left untreated. Early action improves recovery.",
+    "cause": "Viral disease on Tomato, often vector-transmitted (whitefly, aphid, mites).",
+    "symptoms": [
+      "Mosaic or mottled leaves",
+      "Leaf curl or distortion",
+      "Stunted growth"
+    ],
+    "fertilizers": [
+      "Balanced nutrition",
+      "Micronutrient foliar spray"
+    ],
+    "pesticides": [
+      "Control vector insects",
+      "Imidacloprid for whitefly (as per label)"
+    ],
+    "organic_solutions": [
+      "Neem oil for vectors",
+      "Remove infected plants",
+      "Reflective mulch"
+    ],
+    "prevention": [
+      "Vector control",
+      "Resistant varieties",
+      "Rogue infected plants early"
+    ],
+    "recommended_actions": [
+      "Remove and destroy infected plants",
+      "Control whitefly/aphid population",
+      "Plant virus-free seedlings"
+    ]
+  },
+  "wheat_healthy": {
+    "severity_percent": 0,
+    "harmfulness": "Low",
+    "impact": "No disease detected.",
+    "cause": "N/A",
+    "symptoms": [
+      "Uniform green canopy"
+    ],
+    "fertilizers": [
+      "NPK per soil test",
+      "Late zinc spray if needed"
+    ],
+    "pesticides": [
+      "None required"
+    ],
+    "organic_solutions": [
+      "Timely sowing",
+      "Seed treatment with Trichoderma"
+    ],
+    "prevention": [
+      "Certified seed",
+      "Crop rotation"
+    ],
+    "recommended_actions": [
+      "Scout for rust at jointing stage"
+    ],
+    "disease_name": "Wheat — Healthy"
+  },
+  "wheat_leaf_blight": {
+    "disease_name": "Wheat Leaf Blight",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Wheat yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Wheat foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "wheat_mildew": {
+    "disease_name": "Wheat Mildew",
+    "severity_percent": 65,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Wheat yield if left untreated. Early action improves recovery.",
+    "cause": "Fungal pathogen affecting Wheat foliage or fruit.",
+    "symptoms": [
+      "Leaf spots or lesions",
+      "Yellowing or wilting",
+      "Spread in humid weather"
+    ],
+    "fertilizers": [
+      "Balanced NPK",
+      "Avoid excess nitrogen during infection"
+    ],
+    "pesticides": [
+      "Mancozeb",
+      "Propiconazole",
+      "Copper oxychloride"
+    ],
+    "organic_solutions": [
+      "Neem oil spray",
+      "Trichoderma",
+      "Remove infected plant parts"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Proper spacing",
+      "Avoid wet foliage at night"
+    ],
+    "recommended_actions": [
+      "Remove heavily infected leaves",
+      "Apply fungicide at first symptoms",
+      "Improve air circulation in the field"
+    ]
+  },
+  "wheat_mite": {
+    "disease_name": "Wheat Mite",
+    "severity_percent": 55,
+    "harmfulness": "Medium",
+    "impact": "This condition can reduce Wheat yield if left untreated. Early action improves recovery.",
+    "cause": "Insect or mite pest damage on Wheat.",
+    "symptoms": [
+      "Visible insects or eggs",
+      "Leaf mining or curling",
+      "Honeydew or sooty mold"
+    ],
+    "fertilizers": [
+      "Maintain plant vigor with balanced NPK"
+    ],
+    "pesticides": [
+      "Neem-based spray",
+      "Spinosad",
+      "Abamectin for mites (label rates)"
+    ],
+    "organic_solutions": [
+      "Yellow sticky traps",
+      "Neem oil",
+      "Predatory insects"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Remove weed hosts",
+      "Intercropping with repellent plants"
+    ],
+    "recommended_actions": [
+      "Identify pest correctly before spraying",
+      "Apply targeted insecticide at economic threshold",
+      "Monitor after treatment"
+    ]
+  }
+}

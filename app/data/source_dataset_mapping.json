@@ -1,0 +1,48 @@
+{
+  "description": "Maps external dataset folder/class names to Indian agriculture canonical labels.",
+  "plantvillage_crop_map": {
+    "Apple": "Apple",
+    "Blueberry": null,
+    "Cherry": null,
+    "Corn": "Maize",
+    "Grape": "Grapes",
+    "Orange": null,
+    "Peach": null,
+    "Pepper": "Chilli",
+    "Potato": "Potato",
+    "Raspberry": null,
+    "Soybean": "Soybean",
+    "Squash": null,
+    "Strawberry": null,
+    "Tomato": "Tomato"
+  },
+  "kaggle_source_folders": {
+    "rice_diseases": "Rice",
+    "wheat_diseases": "Wheat",
+    "cotton_diseases": "Cotton",
+    "maize_diseases": "Maize",
+    "sugarcane_diseases": "Sugarcane",
+    "mango_diseases": "Mango",
+    "banana_diseases": "Banana",
+    "onion_diseases": "Onion",
+    "chilli_diseases": "Chilli",
+    "brinjal_diseases": "Brinjal",
+    "groundnut_diseases": "Groundnut",
+    "indian_field_crops": null,
+    "indian_crop_diseases": null
+  },
+  "healthy_keywords": ["healthy", "normal", "no_disease", "no disease", "fresh"],
+  "invalid_subfolders": [
+    "bottles",
+    "humans",
+    "phones",
+    "books",
+    "tables",
+    "laptops",
+    "random_room",
+    "faces",
+    "objects",
+    "backgrounds",
+    "random"
+  ]
+}

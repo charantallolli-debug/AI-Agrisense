@@ -1,0 +1,15 @@
+services:
+  agrisense:
+    build: .
+    ports:
+      - "5001:5000"
+    environment:
+      FLASK_ENV: production
+      SECRET_KEY: ${SECRET_KEY:-change-me-in-production}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENWEATHER_API_KEY: ${OPENWEATHER_API_KEY:-}
+      ENABLE_TTA: "true"
+    volumes:
+      # Optional: mount models without rebuilding image
+      - ./trained_models:/app/trained_models:ro
+    restart: unless-stopped

@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Logs and test artifacts
+*.log
+logs/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated plots (keep under notebooks/ or delete after review)
+crop_distribution.png
+feature_correlation.png
+feature_distributions.png
+confusion_matrix.png
+captured.png
+
+# Note: trained_models/ and datasets/ are NOT ignored — commit small artifacts;
+# for large PlantVillage images, use Git LFS or keep locally (see README).
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+
+# Dataset
+datasets/
+
+# Models
+trained_models/*.h5
+trained_models/*.pkl
+
+# Environment
+.env
